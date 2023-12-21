@@ -17,7 +17,7 @@ g) Le disposizioni che prevedono una pronuncia parlamentare su atti o schemi di 
 
 h) Le disposizioni che prevedono adempimenti a carico delle regioni o degli enti locali o che delegano, trasferiscono o conferiscono compiti e funzioni non individuano direttamente gli organi competenti né il tipo di atto da emanare.
 
-RACCOMANDAZIONI
+*RACCOMANDAZIONI
 
 Qualora l'atto legislativo contenga una disciplina organica di una determinata materia, si raccomanda che l'ordine delle disposizioni contenute nell'atto osservi la seguente sequenza:
 
@@ -37,4 +37,4 @@ Le disposizioni concernenti la copertura finanziaria sonopreferibilmente accorpa
 
 È opportuno che le disposizioni transitorie indichino un ambitotemporale definito per la loro applicazione.
 
-È opportuno che ciascun articolo sia costituito da un numero limitato dicommi.
+È opportuno che ciascun articolo sia costituito da un numero limitato di commi.*
