@@ -27,11 +27,13 @@ e) Non si ricorre all'atto legislativo per apportare modifiche
 f) Qualora si intenda disciplinare con legge una materia già oggetto di
    delegificazione, si opera non mediante «novella» di atti di rango
    subprimario, bensì mediante autonoma disposizione legislativa
-   chiarendo: 1) ove possibile, le parti dell'atto secondario che sono
-   abrogate; 2) se la modifica comporta anche un aggiornamento dei
-   principi della delegificazione; 3) se in futuro permane
-   l'autorizzazione già conferita al Governo a disciplinare la materia
-   con regolamento.
+   chiarendo: 
+
+      1) ove possibile, le parti dell'atto secondario che sono abrogate; 
+
+      2) se la modifica comporta anche un aggiornamento dei principi della delegificazione;
+
+      3) se in futuro permane l'autorizzazione già conferita al Governo a disciplinare la materia con regolamento.
 
 g) La cosiddetta formula abrogativa esplicita innominata (del genere:
    «tutte le disposizioni incompatibili con la presente legge sono
@@ -82,9 +84,4 @@ m) La modifica a norme dei testi unici «misti» previsti dall'articolo 7
 
 *RACCOMANDAZIONI*
 
-*È opportuno che ogni atto legislativo contenga una disposizione che
-indichi espressamente le disposizioni abrogate in quanto incompatibili
-con la nuova disciplina recata. Analoga previsione è contenuta nelle
-disposizioni legislative di delegificazione, nel quale caso
-l'abrogazione ha effetto dalla data di entrata in vigore delle norme
-regolamentari.*
+*È opportuno che ogni atto legislativo contenga una disposizione che indichi espressamente le disposizioni abrogate in quanto incompatibili con la nuova disciplina recata. Analoga previsione è contenuta nelle disposizioni legislative di delegificazione, nel quale caso l'abrogazione ha effetto dalla data di entrata in vigore delle norme regolamentari.*
