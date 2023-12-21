@@ -1,9 +1,9 @@
-Regole e raccomandazioni per la formulazione tecnica dei testi legislativi 
-==========================================================================
+Allegato
+========
 
 .. toctree::
   :maxdepth: 3
-  :caption: Indice dei contenuti
+  :caption: Regole e raccomandazioni per la formulazione tecnica dei testi legislativi
 
   _rst/01-titolo-dellatto-legislativo.rst
   _rst/02-aspetti-generali-dellatto-legislativo.rst

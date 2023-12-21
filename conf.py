@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Documento RTD'
+project = 'Circolare 20-04.2001, n. 10888'
 copyright = '2023, Marco Deligios'
 author = 'Marco Deligios'
 
