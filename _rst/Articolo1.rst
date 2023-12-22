@@ -1,3 +1,6 @@
+PRESIDENZA DEL CONSIGLIO DEI MINISTRI - CIRCOLARE 20 aprile 2001, n. 10888 
+==========================================================================
+
 A tutti i Ministeri - Ufficio legislativo 
  
 Sono passati quindici anni dall'emanazione  della  circolare  della Presidenza del Consiglio dei ministri in data 24 febbraio  1986,  che dettava regole e raccomandazioni sulla formulazione tecnica dei testi legislativi. Si trattò del primo tentativo, attuato d'intesa con  le Presidenze dei due rami del Parlamento, di dare avvio al procedimento di miglioramento qualitativo della produzione legislativa, attraverso l'affinamento e l'omogeneizzazione della tecnica di formulazione  dei testi. 
