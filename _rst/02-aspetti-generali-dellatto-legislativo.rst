@@ -17,7 +17,7 @@ d) Le disposizioni contenenti deleghe legislative, ai sensi dell'articolo 76 del
 
   4) i principi e i criteri direttivi (che devono essere distinti dall'oggetto della delega). 
 
-  Il termine «delega» è usato esclusivamente in presenza di una delegazione legislativa con la formula: «Il Governo è delegato ad adottare … ». È inoltre sempre indicata la denominazione propria dell'atto da emanare (decreto legislativo) ed è precisato se la delega può essere esercitata con uno o più atti. Le disposizioni di delega sono contenute in un apposito articolo. Un articolo non può contenere più di una disposizione di delega.
+  Il termine «delega» è usato esclusivamente in presenza di una delegazione legislativa con la formula: «Il Governo è delegato ad adottare …». È inoltre sempre indicata la denominazione propria dell'atto da emanare (decreto legislativo) ed è precisato se la delega può essere esercitata con uno o più atti. Le disposizioni di delega sono contenute in un apposito articolo. Un articolo non può contenere più di una disposizione di delega.
 
 e) Le disposizioni che attribuiscono al Governo un potere regolamentare specificano sempre se si tratta di regolamenti di esecuzione, di delegificazione, di organizzazione o ministeriali, richiamando espressamente, a seconda dei casi, i relativi commi dell'articolo 17 della legge 23 agosto 1988, n. 400. Nel caso di regolamenti di delegificazione sono altresì indicate le norme generali regolatrici della materia.
 

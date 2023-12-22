@@ -21,11 +21,11 @@ i) È evitato l'uso delle espressioni: «articoli … o commi … e seguenti». 
 
 l) Per i decreti convertiti in legge, il riferimento è fatto con la formula: «decreto-legge x, convertito (, con modificazioni,) dalla legge y». 
 
-m) I testi unici o i complessi di disposizioni sono citati con la formula: «testo unico … (o disposizioni … ) di cui al decreto del Presidente della Repubblica (o altro atto) … ». 
+m) I testi unici o i complessi di disposizioni sono citati con la formula: «testo unico … (o disposizioni … ) di cui al decreto del Presidente della Repubblica (o altro atto) …». 
 
 n) Il riferimento ai testi unici «misti» previsti dall'articolo 7 della legge n. 50 del 1999 è operato unicamente al decreto del Presidente della Repubblica (cosiddetto testo A) contenente sia le disposizioni legislative sia quelle regolamentari. Nella citazione sono omesse le indicazioni (L o R) poste in calce a ciascun comma o a fianco della intestazione di ciascun articolo. 
 
-o) I regolamenti governativi e ministeriali sono citati con l'esplicita menzione del termine «regolamento» che individua la natura dell'atto e con la formula: «regolamento di cui al … ». 
+o) I regolamenti governativi e ministeriali sono citati con l'esplicita menzione del termine «regolamento» che individua la natura dell'atto e con la formula: «regolamento di cui al …». 
 
 p) Per i decreti e gli altri atti non numerati comunque pubblicati nella Gazzetta Ufficiale, sono indicati, oltre all'organo emanante e alla data (giorno, mese, anno) di emanazione, anche il numero e la data (giorno, mese, anno) della Gazzetta Ufficiale in cui l'atto è stato pubblicato. 
 
@@ -34,7 +34,7 @@ q) I decreti ministeriali o interministeriali non sono richiamati in modo innomi
 
 r) I riferimenti alle direttive e ai regolamenti comunitari sono fatti con le formule: «direttiva 95/337/CEE del Consiglio (o altro organo emanante), del 27 luglio 1995»; «regolamento (CEE) n. 737/ 95 del Consiglio (o altro organo emanante), del 26 aprile 1995». La sigla CEE è sostituita da CE per gli atti adottati dopo l'entrata in vigore del trattato di Maastricht (1° novembre 1993). Dal 1999 l'indicazione dell'anno (prima del numero per direttive e decisioni e dopo il numero per i regolamenti) figura su 4 cifre. Vi sono infine atti comunitari atipici i quali, sfuggendo alle suddette regole di nomenclatura, rendono necessaria la citazione della data di emanazione dell'atto ovvero, in assenza di ogni altro riferimento utile, della data di pubblicazione nella Gazzetta Ufficiale delle Comunità europee. In caso di ripetute citazioni di uno stesso atto comunitario, limitatamente a quelle successive alla prima, nonché ai fini della sua indicazione nel titolo del testo legislativo, è ammessa l'omissione dell'organo emanante e della data dell'atto. In tali casi si ricorre alle seguenti formule: «direttiva 68/193/CEE»; «decisione 78/884/CEE»; «regolamento (CEE) n. 1859/95». 
 
-s) I riferimenti ad accordi internazionali sono fatti con la seguente formula: «Accordo firmato a … il … » integrata, sulla base dei dati a disposizione, da una delle seguenti formule: 1) «ratificato ai sensi della legge … »; 2) «la cui ratifica è stata autorizzata dalla legge … »; 3) «reso esecutivo ai sensi della (oppure "di cui alla") legge … ». 
+s) I riferimenti ad accordi internazionali sono fatti con la seguente formula: «Accordo firmato a … il …» integrata, sulla base dei dati a disposizione, da una delle seguenti formule: 1) «ratificato ai sensi della legge …»; 2) «la cui ratifica è stata autorizzata dalla legge …»; 3) «reso esecutivo ai sensi della (oppure "di cui alla") legge …». 
 
 t) Quando è necessario citare partizioni di atti comunitari o internazionali è seguita la terminologia adoperata in tali testi. 
 
