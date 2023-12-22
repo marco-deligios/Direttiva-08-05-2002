@@ -17,17 +17,17 @@ g) Le disposizioni che prevedono una pronuncia parlamentare su atti o schemi di 
 
 h) Le disposizioni che prevedono adempimenti a carico delle regioni o degli enti locali o che delegano, trasferiscono o conferiscono compiti e funzioni non individuano direttamente gli organi competenti né il tipo di atto da emanare.
 
-*RACCOMANDAZIONI
+*RACCOMANDAZIONI*
 
-Qualora l'atto legislativo contenga una disciplina organica di una determinata materia, si raccomanda che l'ordine delle disposizioni contenute nell'atto osservi la seguente sequenza:*
+*Qualora l'atto legislativo contenga una disciplina organica di una determinata materia, si raccomanda che l'ordine delle disposizioni contenute nell'atto osservi la seguente sequenza:*
 
-a) *parte introduttiva, contenente «disposizioni generali»: finalità dell'atto e principi generali espressi in modo da facilitarne l'interpretazione (sono da escludere norme meramente programmatiche o semplici dichiarazioni di intenti non attinenti alle finalità dell'atto); ambito di operatività dell'atto, con una definizione, chiara ma non rigida, del campo di applicazione, sia oggettivo che soggettivo; definizioni;*
+a)  *parte introduttiva, contenente «disposizioni generali»: finalità dell'atto e principi generali espressi in modo da facilitarne l'interpretazione (sono da escludere norme meramente programmatiche o semplici dichiarazioni di intenti non attinenti alle finalità dell'atto); ambito di operatività dell'atto, con una definizione, chiara ma non rigida, del campo di applicazione, sia oggettivo che soggettivo; definizioni;*
 
-b) *parte principale, contenente: disposizioni sostanziali e procedurali relative alla materia disciplinata; eventuali previsioni sanzionatorie; indicazione delle strutture pubbliche coinvolte nell'intervento normativa (copertura amministrativa) e disposizioni finanziarie;*
+b)  *parte principale, contenente: disposizioni sostanziali e procedurali relative alla materia disciplinata; eventuali previsioni sanzionatorie; indicazione delle strutture pubbliche coinvolte nell'intervento normativa (copertura amministrativa) e disposizioni finanziarie;*
 
-c) *parte finale, contenente: disposizioni relative all'attuazione dell'atto; disposizioni di coordinamento normativa (volte a chiarire anche l'ambito di applicazione delle nuove disposizioni relativamente ad altre già vigenti); disposizioni abrogative; disposizioni transitorie;*
+c)  *parte finale, contenente: disposizioni relative all'attuazione dell'atto; disposizioni di coordinamento normativa (volte a chiarire anche l'ambito di applicazione delle nuove disposizioni relativamente ad altre già vigenti); disposizioni abrogative; disposizioni transitorie;*
 
-d) *disposizioni sull'entrata in vigore dell'atto e sulla decorrenza (o scadenza) di efficacia di singole disposizioni.*
+d)  *disposizioni sull'entrata in vigore dell'atto e sulla decorrenza (o scadenza) di efficacia di singole disposizioni.*
 
 *Occorre distinguere le finalità da elementi delle fattispecie da disciplinare. È opportuno non inserire in ogni disposizione le finalità,raggruppandole nella parte introduttiva.*
 
