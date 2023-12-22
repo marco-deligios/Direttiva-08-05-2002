@@ -31,10 +31,10 @@ d)  *disposizioni sull'entrata in vigore dell'atto e sulla decorrenza (o scadenz
 
 *Occorre distinguere le finalità da elementi delle fattispecie da disciplinare. È opportuno non inserire in ogni disposizione le finalità,raggruppandole nella parte introduttiva.*
 
-*In un atto che contenga principi fondamentali per l'esercizio, da partedelle regioni, della potestà legislativa concorrente di cui all'articolo117 della Costituzione, è opportuno che i predetti principi sianocollocati in una parte dell'atto diversa da quella eventualmentecontenente norme immediatamente applicabili in assenza di leggiregionali ovvero applicabili a decorrere da una data prefissata, in casodi mancato adeguamento della legislazione regionale ai principimedesimi.*
+*In un atto che contenga principi fondamentali per l'esercizio, da parte delle regioni, della potestà legislativa concorrente di cui all'articolo117 della Costituzione, è opportuno che i predetti principi siano collocati in una parte dell'atto diversa da quella eventualmente contenente norme immediatamente applicabili in assenza di leggi regionali ovvero applicabili a decorrere da una data prefissata, in caso di mancato adeguamento della legislazione regionale ai principi medesimi.*
 
-*Le disposizioni concernenti la copertura finanziaria sonopreferibilmente accorpate in un unico articolo.*
+*Le disposizioni concernenti la copertura finanziaria sono preferibilmente accorpate in un unico articolo.*
 
-*È opportuno che le disposizioni transitorie indichino un ambitotemporale definito per la loro applicazione.*
+*È opportuno che le disposizioni transitorie indichino un ambito temporale definito per la loro applicazione.*
 
 *È opportuno che ciascun articolo sia costituito da un numero limitato di commi.*
