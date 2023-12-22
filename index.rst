@@ -4,7 +4,8 @@ Regole e raccomandazioni per la formulazione tecnica dei testi legislativi[1]
 .. toctree::
   :maxdepth: 3
   :caption: Sommario
-
+  
+  _rst/Circolare.rst 
   _rst/01-titolo-dellatto-legislativo.rst
   _rst/02-aspetti-generali-dellatto-legislativo.rst
   _rst/03-rapporti-tra-atti-normativi.rst
