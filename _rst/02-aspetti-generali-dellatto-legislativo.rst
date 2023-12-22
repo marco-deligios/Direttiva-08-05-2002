@@ -17,9 +17,9 @@ g) Le disposizioni che prevedono una pronuncia parlamentare su atti o schemi di 
 
 h) Le disposizioni che prevedono adempimenti a carico delle regioni o degli enti locali o che delegano, trasferiscono o conferiscono compiti e funzioni non individuano direttamente gli organi competenti né il tipo di atto da emanare.
 
-*RACCOMANDAZIONI*
+*RACCOMANDAZIONI
 
-*Qualora l'atto legislativo contenga una disciplina organica di una determinata materia, si raccomanda che l'ordine delle disposizioni contenute nell'atto osservi la seguente sequenza:*
+Qualora l'atto legislativo contenga una disciplina organica di una determinata materia, si raccomanda che l'ordine delle disposizioni contenute nell'atto osservi la seguente sequenza:*
 
 a) *parte introduttiva, contenente «disposizioni generali»: finalità dell'atto e principi generali espressi in modo da facilitarne l'interpretazione (sono da escludere norme meramente programmatiche o semplici dichiarazioni di intenti non attinenti alle finalità dell'atto); ambito di operatività dell'atto, con una definizione, chiara ma non rigida, del campo di applicazione, sia oggettivo che soggettivo; definizioni;*
 
