@@ -1,5 +1,5 @@
-PRESIDENZA DEL CONSIGLIO DEI MINISTRI - CIRCOLARE 20 aprile 2001, n. 10888 
-==========================================================================
+Articolo 1 
+==========
 
 A tutti i Ministeri - Ufficio legislativo 
  
