@@ -1,5 +1,5 @@
 2. Aspetti generali dell'atto legislativo.
-==========================================
+------------------------------------------
 
 a) L'atto legislativo disciplina materia omogenea. La ripartizione delle materie all'interno dell'atto è operata assicurando il carattere omogeneo di ciascuna partizione, ivi compreso l'articolo, nonché di ciascun comma all'interno dell'articolo.
 
@@ -19,22 +19,22 @@ h) Le disposizioni che prevedono adempimenti a carico delle regioni o degli enti
 
 *RACCOMANDAZIONI*
 
-Qualora l'atto legislativo contenga una disciplina organica di una determinata materia, si raccomanda che l'ordine delle disposizioni contenute nell'atto osservi la seguente sequenza:
+*Qualora l'atto legislativo contenga una disciplina organica di una determinata materia, si raccomanda che l'ordine delle disposizioni contenute nell'atto osservi la seguente sequenza:*
 
-a) parte introduttiva, contenente «disposizioni generali»: finalità dell'atto e principi generali espressi in modo da facilitarne l'interpretazione (sono da escludere norme meramente programmatiche o semplici dichiarazioni di intenti non attinenti alle finalità dell'atto); ambito di operatività dell'atto, con una definizione, chiara ma non rigida, del campo di applicazione, sia oggettivo che soggettivo; definizioni;
+*a) parte introduttiva, contenente «disposizioni generali»: finalità dell'atto e principi generali espressi in modo da facilitarne l'interpretazione (sono da escludere norme meramente programmatiche o semplici dichiarazioni di intenti non attinenti alle finalità dell'atto); ambito di operatività dell'atto, con una definizione, chiara ma non rigida, del campo di applicazione, sia oggettivo che soggettivo; definizioni;*
 
-b) parte principale, contenente: disposizioni sostanziali e procedurali relative alla materia disciplinata; eventuali previsioni sanzionatorie; indicazione delle strutture pubbliche coinvolte nell'intervento normativa (copertura amministrativa) e disposizioni finanziarie;
+*b) parte principale, contenente: disposizioni sostanziali e procedurali relative alla materia disciplinata; eventuali previsioni sanzionatorie; indicazione delle strutture pubbliche coinvolte nell'intervento normativa (copertura amministrativa) e disposizioni finanziarie;*
 
-c) parte finale, contenente: disposizioni relative all'attuazione dell'atto; disposizioni di coordinamento normativa (volte a chiarire anche l'ambito di applicazione delle nuove disposizioni relativamente ad altre già vigenti); disposizioni abrogative; disposizioni transitorie;
+*c) parte finale, contenente: disposizioni relative all'attuazione dell'atto; disposizioni di coordinamento normativa (volte a chiarire anche l'ambito di applicazione delle nuove disposizioni relativamente ad altre già vigenti); disposizioni abrogative; disposizioni transitorie;*
 
-d) disposizioni sull'entrata in vigore dell'atto e sulla decorrenza (o scadenza) di efficacia di singole disposizioni.
+*d) disposizioni sull'entrata in vigore dell'atto e sulla decorrenza (o scadenza) di efficacia di singole disposizioni.*
 
-Occorre distinguere le finalità da elementi delle fattispecie da disciplinare. È opportuno non inserire in ogni disposizione le finalità,raggruppandole nella parte introduttiva.
+*Occorre distinguere le finalità da elementi delle fattispecie da disciplinare. È opportuno non inserire in ogni disposizione le finalità,raggruppandole nella parte introduttiva.*
 
-In un atto che contenga principi fondamentali per l'esercizio, da partedelle regioni, della potestà legislativa concorrente di cui all'articolo117 della Costituzione, è opportuno che i predetti principi sianocollocati in una parte dell'atto diversa da quella eventualmentecontenente norme immediatamente applicabili in assenza di leggiregionali ovvero applicabili a decorrere da una data prefissata, in casodi mancato adeguamento della legislazione regionale ai principimedesimi.
+*In un atto che contenga principi fondamentali per l'esercizio, da partedelle regioni, della potestà legislativa concorrente di cui all'articolo117 della Costituzione, è opportuno che i predetti principi sianocollocati in una parte dell'atto diversa da quella eventualmentecontenente norme immediatamente applicabili in assenza di leggiregionali ovvero applicabili a decorrere da una data prefissata, in casodi mancato adeguamento della legislazione regionale ai principimedesimi.*
 
-Le disposizioni concernenti la copertura finanziaria sonopreferibilmente accorpate in un unico articolo.
+*Le disposizioni concernenti la copertura finanziaria sonopreferibilmente accorpate in un unico articolo.*
 
-È opportuno che le disposizioni transitorie indichino un ambitotemporale definito per la loro applicazione.
+*È opportuno che le disposizioni transitorie indichino un ambitotemporale definito per la loro applicazione.*
 
-È opportuno che ciascun articolo sia costituito da un numero limitato di commi.
+*È opportuno che ciascun articolo sia costituito da un numero limitato di commi.*
