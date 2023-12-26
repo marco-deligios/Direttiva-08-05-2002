@@ -1,6 +1,6 @@
-﻿Regole e raccomandazioni per la formulazione tecnica dei testi legislativi
-==========================================================================
+﻿Semplificazione del linguaggio dei testi amministrativi.
+========================================================
 
-Questo progetto contiene il testo della Circolare (Presidenza del Consiglio dei Ministri) 20-04-2001, n. 10888 *Regole e raccomandazioni per la formulazione tecnica dei testi legislativi.* (GU Serie Generale n.97 del 27-04-2001).
+Questo progetto contiene il testo della Direttiva (Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica) 08-05-2002 *﻿Semplificazione del linguaggio dei testi amministrativi.*  (GU Serie Generale n.141 del 18-06-2002).
 
-Il testo ufficiale si può trovare sul sito della Gazzetta Ufficiale: https://www.gazzettaufficiale.it/eli/id/2001/04/27/001A4602/sg
+Il testo ufficiale si può trovare sul sito della Gazzetta Ufficiale: https://www.gazzettaufficiale.it/eli/id/2002/06/18/02A07864/sg
