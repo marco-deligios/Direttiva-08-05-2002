@@ -1,0 +1,4 @@
+4. Individuare e indicare i contenuti giuridici del testo.
+----------------------------------------------------------
+
+Tra i vari testi prodotti dalle amministrazioni pubbliche, gli atti amministrativi rispondono a regole e principi di legittimità. Gli atti devono contenere l'indicazione del soggetto che li emana, l'oggetto dell'atto amministrativo, la decisione che è stata presa, le motivazioni che la giustificano. Vanno indicati, se necessario, gli adempimenti e le condizioni cui si deve prestare attenzione e i riferimenti normativi a sostegno dell'atto, secondo quanto prescritto dalle tecniche di redazione normativa.
