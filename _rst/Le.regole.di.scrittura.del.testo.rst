@@ -8,6 +8,12 @@ Gli  esempi  sono  stati  tratti da documenti attualmente usati dalle pubbliche 
 
 Le ricerche dicono che frasi con più di 25 parole sono difficili da capire e ricordare. Ogni frase deve comunicare una sola informazione. È sempre preferibile dividere la frase lunga, aumentando dunque l'uso della punteggiatura.
 
+
+.. table:: Scrivere frasi brevi.
+   :name: Scrivere-frasi-brevi
+   :width: 100%
+   :widths: 50,50
+   
 +----------------------------------+----------------------------------+
 |        Testo originale           |         Testo riscritto          |
 +==================================+==================================+
@@ -35,7 +41,7 @@ Rispetto alle parole di un dizionario, quelle che usiamo di solito sono in numer
 +----------------------------------+----------------------------------+
 |L'ufficio trattamento economico in|                                  |
 |indirizzo, cesserà la             |                                  |
-|corresponsione degli emolumenti a | Dal 1° maggio 2001 il nostro   |
+|corresponsione degli emolumenti a | Dal 1° maggio 2001 il nostro     |
 |decorrere dal 1° maggio 2001.     | ufficio sospenderà i pagamenti.  |
 +----------------------------------+----------------------------------+
 
