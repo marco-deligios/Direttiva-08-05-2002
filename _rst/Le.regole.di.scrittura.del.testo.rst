@@ -7,13 +7,7 @@ Gli  esempi  sono  stati  tratti da documenti attualmente usati dalle pubbliche 
 ------------------------
 
 Le ricerche dicono che frasi con più di 25 parole sono difficili da capire e ricordare. Ogni frase deve comunicare una sola informazione. È sempre preferibile dividere la frase lunga, aumentando dunque l'uso della punteggiatura.
-
-
-.. table:: Scrivere frasi brevi.
-   :name: Scrivere-frasi-brevi
-   :width: 100%
-   :widths: 50,50
-   
+  
 +----------------------------------+----------------------------------+
 |        Testo originale           |         Testo riscritto          |
 +==================================+==================================+
