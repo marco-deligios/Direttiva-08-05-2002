@@ -13,6 +13,7 @@ Le ricerche dicono che frasi con più di 25 parole sono difficili da capire e ri
    :name: Scrivere-frasi-brevi
    :width: 100%
    :widths: 50,50
+   :class: tight-table
    
 +----------------------------------+----------------------------------+
 |        Testo originale           |         Testo riscritto          |
