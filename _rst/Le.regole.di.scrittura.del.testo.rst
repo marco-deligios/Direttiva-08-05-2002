@@ -11,10 +11,18 @@ Le ricerche dicono che frasi con più di 25 parole sono difficili da capire e ri
 +----------------------------------+----------------------------------+
 |        Testo originale           |         Testo riscritto          |
 +==================================+==================================+
-| Qualora dal controllo dovesse emergere la non veridicità del contenuto della dichiarazione, il dichiarante decade dai benefici conseguiti sulla base della dichiarazione non veritiera, fermo restando quanto previsto dall'art. 26 della legge 4 gennaio 1968, n. 15, in materia di sanzioni penali |
-Chi rilascia una dichiarazione falsa, anche in parte, perde i benefici descritti e subisce sanzioni penali 1.|
+|Qualora dal controllo dovesse     |Chi rilascia una dichiarazione    |
+|emergere la non veridicità del    |falsa, anche in parte, perde i    |
+|contenuto della dichiarazione, il |benefici descritti e subisce      |
+|dichiarante decade dai benefici   |sanzioni penali 1.                |
+|conseguiti sulla base della       |                                  |
+|dichiarazione non veritiera, fermo|                                  |
+|restando quanto previsto dall'art.|                                  |
+|26 della legge 4 gennaio 1968, n. |                                  |
+|15, in materia di sanzioni penali |                                  |
 +----------------------------------+----------------------------------+
-|                                  | 1 Art. 26, legge n. 15 del 4 gennaio 1968.|
+|                                  |1 Art. 26, legge n. 15 del 4      |
+|                                  |gennaio 1968.                     |
 +----------------------------------+----------------------------------+
 
 2. Usare parole del linguaggio comune.
