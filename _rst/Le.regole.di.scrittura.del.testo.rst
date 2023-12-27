@@ -14,7 +14,7 @@ Le ricerche dicono che frasi con più di 25 parole sono difficili da capire e ri
    :width: 100%
    :widths: 50,50
    
-+==================================+==================================+
++----------------------------------+----------------------------------+
 |        Testo originale           |         Testo riscritto          |
 +==================================+==================================+
 |Qualora dal controllo dovesse     |Chi rilascia una dichiarazione    |
@@ -36,7 +36,7 @@ Le ricerche dicono che frasi con più di 25 parole sono difficili da capire e ri
 
 Rispetto alle parole di un dizionario, quelle che usiamo di solito sono in numero molto contenuto. Il vocabolario di base della lingua italiana contiene meno di 7000 parole e sono quelle che dobbiamo preferire se vogliamo essere capiti da chi legge.
 
-+==================================+==================================+
++----------------------------------+----------------------------------+
 |        Testo originale           |         Testo riscritto          |
 +==================================+==================================+
 |L'ufficio trattamento economico in|Dal 1° maggio 2001 il nostro      |
@@ -50,7 +50,7 @@ Rispetto alle parole di un dizionario, quelle che usiamo di solito sono in numer
 
 Contrariamente a quanto si crede, in un "testo di servizio" (un testo che informa o fornisce istruzioni) il numero di termini tecnici indispensabili è normalmente molto basso. In media, in un testo amministrativo le parole tecniche sono meno di cinque su cento. È bene usare solo quelle veramente necessarie e, quando possibile, spiegarne il significato in una nota oppure con un piccolo glossario.
 
-+==================================+==================================+
++----------------------------------+----------------------------------+
 |        Testo originale           |         Testo riscritto          |
 +==================================+==================================+
 |Tali posizioni sono da            |I cittadini che vogliono iniziare |
@@ -69,7 +69,7 @@ Contrariamente a quanto si crede, in un "testo di servizio" (un testo che inform
 
 È bene evitare abbreviazioni e sigle: spesso sono ovvie per chi scrive, ma non sono capite da chi legge. Se le usiamo, è bene che la prima volta che compaiono siano sciolte e scritte per esteso. Fanno eccezione abbreviazioni e sigle d'uso consolidato e molto note (per esempio: Fiat, Cgil, Istat).
 
-+==================================+==================================+
++----------------------------------+----------------------------------+
 |        Testo originale           |         Testo riscritto          |
 +==================================+==================================+
 |                                  |Vi chiediamo di indicare al       |
@@ -85,7 +85,7 @@ Contrariamente a quanto si crede, in un "testo di servizio" (un testo che inform
 
 È buona regola costruire il periodo usando prevalentemente frasi attive. Il testo con il verbo attivo e in forma affermativa è più incisivo, le frasi sono più brevi, la lettura più rapida.
 
-+==================================+==================================+
++----------------------------------+----------------------------------+
 |        Testo originale           |         Testo riscritto          |
 +==================================+==================================+
 |Non volendo disconoscere a codesto|                                  |
@@ -100,7 +100,7 @@ Contrariamente a quanto si crede, in un "testo di servizio" (un testo che inform
 
 Costruire  il testo in modo semplice e compatto significa anzitutto rendere  esplicito  il  soggetto e ripeterlo quando è necessario. È opportuno  evitare  le  sequenze  di parole che non hanno un verbo in forma esplicita.
 
-+==================================+==================================+
++----------------------------------+----------------------------------+
 |        Testo originale           |         Testo riscritto          |
 +==================================+==================================+
 |… stanti le urgenti ed            |                                  |
@@ -117,7 +117,7 @@ Costruire  il testo in modo semplice e compatto significa anzitutto rendere  esp
 
 Le maiuscole sono mezzi ortografici che hanno lo scopo di segnalare l'inizio di un periodo e i nomi propri. I testi amministrativi affidano spesso alle maiuscole contenuti stilistici di rispetto, di gerarchia, di enfasi. Questi usi sono retaggio di una cultura retorica, appesantiscono lo stile e il tono della comunicazione: essi devono essere eliminati o ridotti quanto più è possibile. La punteggiatura, per contro, suddivide il testo in unità di senso. Essa non solo guida l'occhio e la voce, ma articola il contenuto logico di quanto è scritto. Una buona punteggiatura obbliga a togliere ambiguità al testo e a collegare in modo corretto i contenuti.
 
-+==================================+==================================+
++----------------------------------+----------------------------------+
 |        Testo originale           |         Testo riscritto          |
 +==================================+==================================+
 |L'emergere di nuove modalità      |Anche nel settore pubblico        |
@@ -139,7 +139,7 @@ Le maiuscole sono mezzi ortografici che hanno lo scopo di segnalare l'inizio di 
 
 Non  si  deve  essere  ostili,  a  priori,  ai  neologismi.  Ma  è consigliabile usarli solo se sono effettivamente insostituibili e non usarli  se  sono  effimeri  fenomeni di moda. Analogamente, le parole straniere  e  i  latinismi vanno evitati ove sia in uso l'equivalente termine  in  lingua italiana. È ormai frequente il ricorso a termini tecnici  propri  della società dell'informazione e dell'elettronica: da evitare se ve ne siano di equivalenti nella lingua italiana.
 
-+==================================+==================================+
++----------------------------------+----------------------------------+
 |        Testo originale           |         Testo riscritto          |
 +==================================+==================================+
 |                                  |La gestione di questo servizio    |
@@ -159,7 +159,7 @@ Non  si  deve  essere  ostili,  a  priori,  ai  neologismi.  Ma  è consigliabil
 
 Il testo scritto richiede il rispetto del congiuntivo. Dove il contesto lo permette, è opportuno però sostituire il congiuntivo con l'indicativo o con l'infinito. L'indicativo rende il testo più diretto e evita informazioni implicite o ambigue.
 
-+==================================+==================================+
++----------------------------------+----------------------------------+
 |        Testo originale           |         Testo riscritto          |
 +==================================+==================================+
 |Ove la commissione potesse        |Se la commissione si riunirà per  |
@@ -172,7 +172,7 @@ Il testo scritto richiede il rispetto del congiuntivo. Dove il contesto lo perme
 
  I sistemi di video scrittura mettono a disposizione di chi scrive enormi possibilità di scelte grafiche e tipografiche. Neretti, sottolineature, corsivi, caratteri, grandezza del corpo, elenchi sono solo alcuni esempi di tali possibilità e possono aiutare a focalizzare l'attenzione. È bene tuttavia non abusarne e utilizzarli con parsimonia. Il testo sobrio è sempre visivamente leggibile e coerente.
  
-+==================================+==================================+
++----------------------------------+----------------------------------+
 |        Testo originale           |         Testo riscritto          |
 +==================================+==================================+
 |                                  |Il comando comunica che il        |
